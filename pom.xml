@@ -1,4 +1,4 @@
-Skip to content
+<!-- Skip to content
 Search or jump to…
 Pull requests
 Issues
@@ -26,7 +26,7 @@ Latest commit 0657a58 on Dec 27, 2021
  5 contributors
 @alagu1@devopsraf@ravidevops123@nareshit20@nareshinst
 114 lines (102 sloc)  4.08 KB
-   
+    -->
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
@@ -141,7 +141,7 @@ Latest commit 0657a58 on Dec 27, 2021
         </plugins>
     </build>
 </project>
-© 2022 GitHub, Inc.
+<!-- © 2022 GitHub, Inc.
 Terms
 Privacy
 Security
@@ -153,4 +153,4 @@ API
 Training
 Blog
 About
-Loading complete
+Loading complete -->
